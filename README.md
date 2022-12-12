@@ -11,4 +11,4 @@ The tutorial is self contained within the `homology-modelling-tutorial.ipynb` ju
 
 If you are doing the Oxford Biochemistry course, just start exploring the jupyter notebook.
 
-Otherwise, note that you will need to have jupyter notebook already installed as well as jalview and modeller.
+Otherwise, note that you will need to have jupyter notebook already installed as well as pymol, jalview and modeller.
